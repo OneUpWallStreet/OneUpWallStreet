@@ -1,4 +1,4 @@
-### Hi there 👋
+### I got way too many blues for any more bad news
 
 <!--
 **OneUpWallStreet/OneUpWallStreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
