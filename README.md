@@ -1,4 +1,4 @@
-### Back to the days of Christopher Robin and Pooh 🧸
+### Hey!
 
 <!--
 **OneUpWallStreet/OneUpWallStreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
