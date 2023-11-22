@@ -1,6 +1,6 @@
 ### Led Zeppelin ~ Your Time Is Gonna Come
 
-M.S. C.S Student Living in the San Francisco Bay Area, Particularly Interested in DevOps and Cloud Computing. More about me here -> [swarom.dev/now](https://www.swarom.dev/now/)
+Grad Student Living in the San Francisco Bay Area, Particularly Interested in DevOps and Cloud Computing. More about me here -> [swarom.dev/now](https://www.swarom.dev/now/)
 <!--
 **OneUpWallStreet/OneUpWallStreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
